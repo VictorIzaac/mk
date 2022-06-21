@@ -92,7 +92,7 @@ section.depoimentos > .center{
 
 .depoimento-single1{
 	background-color: rgb(250, 213, 30);
-	background-image: url('../images/sco2.jpg');
+	background-image: url('sco2.jpg');
 	background-size: 55px 40px;
 	background-position: calc(100% - 10px) 10px;
 	background-repeat: no-repeat;

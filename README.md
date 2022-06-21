@@ -1,2 +1,1 @@
-# mk
-site mk
+https://victorizaac.github.io/mk/ 

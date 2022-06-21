@@ -104,7 +104,7 @@ section.depoimentos > .center{
 
 .depoimento-single{
 	background-color: rgb(12, 118, 240);
-	background-image: url('../images/sub2.jpg');
+	background-image: url('sub2.jpg');
 	background-size: 55px 40px;
 	background-position: calc(100% - 10px) 10px;
 	background-repeat: no-repeat;
